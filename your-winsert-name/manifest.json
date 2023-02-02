@@ -1,0 +1,20 @@
+{
+  "displayName": "Your Winsert Name",
+  "version": "1.0",
+  "developerName": "Your Name Here",
+  "description": "This is a short description of this Winsert",
+  "mainURL": "https://example.com/",
+  "sidebar": {
+    "color": "#9900ff",
+    "size": 3
+  },
+  "inject": {
+    "script": [
+      "payload.js"
+    ],
+    "style": [
+      "style.css"
+    ]
+  },
+  "exposeAddons": []
+}
