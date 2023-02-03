@@ -1,7 +1,7 @@
 const init = () => {
   console.log(window.Winside.vars.winsertId)
 
-  // --- Your code here --- //
+  // --- Your JS code here --- //
   
 }
 
