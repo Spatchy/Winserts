@@ -1,0 +1,7 @@
+.central-featured {
+  max-width: fit-content !important;
+}
+
+.central-featured-logo {
+  position: unset !important;
+}
