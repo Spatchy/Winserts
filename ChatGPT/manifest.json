@@ -1,0 +1,16 @@
+{
+  "displayName": "ChatGPT",
+  "version": "1.0",
+  "developerName": "Spatchy",
+  "description": "The world's most powerful large language model AI",
+  "mainURL": "https://chat.openai.com/chat",
+  "sidebar": {
+    "color": "#75a99c",
+    "size": 3
+  },
+  "inject": {
+    "script": [],
+    "style": []
+  },
+  "exposeAddons": []
+}
