@@ -21,6 +21,11 @@ See the [Winsert Development Guide](https://github.com/Spatchy/Winside/wiki/Wins
 
 # Winserts
 
+### ChatGPT [![Developer:Spatchy](https://img.shields.io/badge/Developer-%20Spatchy-9900ff)](https://github.com/Spatchy)
+The world's most powerful large language model AI
+![image](https://user-images.githubusercontent.com/17989046/225138690-49397c1a-0b1b-4aa1-8e52-867745054ede.png)
+
+
 ### Wikipedia [![Developer:Spatchy](https://img.shields.io/badge/Developer-%20Spatchy-9900ff)](https://github.com/Spatchy)
 A simple viewer for Wikipedia
 ![image](https://user-images.githubusercontent.com/17989046/216690299-02bd891d-bafa-4f21-910c-e9a0d04c059c.png)
