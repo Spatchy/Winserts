@@ -1,0 +1,55 @@
+div:has(> #side) {
+  width: 100%;
+  position: absolute !important;
+  max-width: unset !important;
+  flex: unset !important;
+}
+
+div:has(> #side.menu-closed) {
+  display: none;
+}
+
+#main {
+  display: flex;
+  flex-grow: 1;
+}
+
+div[tabindex="-1"] {
+  min-width: unset !important;
+}
+
+div.landing-wrapper {
+  display: contents;
+}
+
+[data-testid="drawer-left"] {
+  max-width: unset !important;
+  flex: unset !important;
+  width: 100%;
+}
+
+span[data-testid="chat-butterbar"] {
+  display: none !important;
+}
+
+button.chat-menu-button {
+  color: white;
+  font-size: 1.8rem;
+  padding-right: 10px;
+}
+
+div.permissions-modal.active {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  z-index: 9999999;
+  background-color: #00000088;
+  color: white;
+}
+
+div.permissions-modal:not(.active) {
+  display: none;
+}
