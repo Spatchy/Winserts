@@ -1,0 +1,21 @@
+{
+  "displayName": "WhatsApp",
+  "version": "1.0",
+  "developerName": "Spatchy",
+  "description": "Chat with anyone on WhatsApp, right from Winside",
+  "mainURL": "https://web.whatsapp.com",
+  "sidebar": {
+    "color": "#008069",
+    "size": 3
+  },
+  "inject": {
+    "script": [
+      "payload.js"
+    ],
+    "style": [
+      "style.css"
+    ]
+  },
+  "exposeAddons": [],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:111.0) Gecko/20100101 Firefox/111.0"
+}
