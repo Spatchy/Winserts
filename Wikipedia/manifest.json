@@ -1,16 +1,17 @@
 {
   "displayName": "Wikipedia",
-  "version": "1.0",
+  "version": "1.1",
   "developerName": "Spatchy",
   "description": "A simple viewer for Wikipedia",
   "mainURL": "https://wikipedia.org",
   "sidebar": {
     "color": "#000000",
-    "size": 4
+    "size": 3
   },
   "inject": {
     "script": [],
-    "style": ["style.css"]
+    "style": []
   },
+  "userAgent": "Mozilla/5.0 (Android 13; Mobile; rv:68.0) Gecko/68.0 Firefox/111.0",
   "exposeAddons": []
 }
